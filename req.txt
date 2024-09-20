@@ -8,9 +8,8 @@ pandas
 scikit-learn
 
 # Deep learning
-tensorflow[and-cuda]=2.12
+tensorflow[and-cuda]
 keras
-torch
 
 # Natural language processing
 nltk
@@ -18,7 +17,3 @@ nltk
 # Miscellaneous
 matplotlib
 seaborn
-
-# Test
-
-
