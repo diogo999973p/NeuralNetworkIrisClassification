@@ -1,0 +1,22 @@
+# Common
+ipykernel
+jupyter
+
+# Core libraries
+numpy
+pandas
+scikit-learn
+
+# Deep learning
+tensorflow[and-cuda]=2.12
+keras
+torch
+
+# Natural language processing
+nltk
+
+# Miscellaneous
+matplotlib
+seaborn
+
+
