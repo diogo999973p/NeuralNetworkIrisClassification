@@ -1,0 +1,8 @@
+Drop out do not changed the result greately, but using more neurons and less epochs produced the best result.
+
+
+From your statement, it seems that while dropout didn't significantly affect the results, using more neurons with fewer epochs yielded the best performance. This could indicate that the model was able to learn effectively without overfitting, possibly due to the increased capacity from more neurons. It's always a balance between model complexity and the risk of overfitting, and it often requires experimentation to find the optimal configuration.
+
+Should I add more neurons or more layers?
+
+In summary, whether to add more layers or more neurons depends on the specific characteristics of your problem and dataset. For complex problems, deeper networks may be beneficial, while for simpler problems or limited data, increasing the number of neurons in existing layers might be more effective. Always validate your choices with experimentation and performance metrics.
